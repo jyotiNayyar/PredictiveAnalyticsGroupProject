@@ -8,4 +8,4 @@ The project structure is as mentioned below -
 - SQL_script.sql : The sql script is used to retrieve raw data from the database provided. The retrieved data is then saved in an excel to be used for further analysis.
 - Raw_data.xlsx : The data retrieved using SQL_script.sql.
 - artist_song_data_analysis.xlsx : The exploratory analysis on the raw data is presented in this file.
-- Artist_Segmentation.ipynb : Python code present in this file is used for segmentationa and profiling.
+- Artist_Segmentation.ipynb : Python code present in this file is used for artist segmentation and profiling.
